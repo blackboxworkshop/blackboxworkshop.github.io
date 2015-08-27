@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Workshop Abstract
+title: Black box learning and inference
 ---
 
 One of the ongoing questions in the development of intelligent learning systems is how to design models that smoothly negotiate the transition from low-level features of the data to high-level representations that are compositional, interpretable, and generalize well across examples. At lower levels of representation, connectionist models have proven highly effective at learning representations with good predictive accuracy. At higher levels of abstraction, where uncertainty about latent variables becomes more important, structured probabilistic models can be used to represent knowledge of  the world and prior information in a modular and composable manner. However, inference is typically a bottleneck in such models, and state-of-the-art methods have historically been model-specific, in the sense that they make use of assumptions that do not trivially apply or generalize to other models. 
