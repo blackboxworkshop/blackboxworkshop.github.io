@@ -4,7 +4,7 @@ title: Workshop organizers
 ---
 
 * [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) (MIT)
-* [Jan-Willem Van de Meent](http://www.robots.ox.ac.uk/~jwvdm/) (Oxford)
+* [Jan-Willem van de Meent](http://www.robots.ox.ac.uk/~jwvdm/) (Oxford)
 * [Tejas Kulkarni](http://tejask.com) (MIT)
 * [Ali Eslami](http://arkitus.com/) (Google DeepMind)
 * [Brooks Paige](http://www.robots.ox.ac.uk/~brooks/) (Oxford)
