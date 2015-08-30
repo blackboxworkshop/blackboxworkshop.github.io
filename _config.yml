@@ -1,3 +1,13 @@
-name: NIPS Workshop on Black Box Learning and Inference
+name: NIPS 2015 Workshop on Black Box Learning and Inference
 markdown: redcarpet
 pygments: true
+
+navigation:
+- text: Description
+  url: /index.html
+- text: Submissions
+  url: /contribute/index.html
+- text: Schedule
+  url: /schedule/index.html
+- text: Organizers 
+  url: /organizers/index.html

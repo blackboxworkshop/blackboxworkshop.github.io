@@ -2,8 +2,8 @@
 
 body {
   padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
+  font:16px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#555;
   font-weight:300;
 }
 
@@ -21,16 +21,20 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size: 200%;
 }
 
 h2 {
+  font-size: 125%;
   color:#393939;
 }
 
 h3, h4, h5, h6 {
+  font-size: 100%;
   color:#494949;
 }
+
+
 
 a {
   color:#39c;
@@ -54,7 +58,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:860px;
+  width:750px;
   margin:0 auto;
 }
 
@@ -103,13 +107,14 @@ img {
   max-width:100%;
 }
 
-header {
+/*header {
   width:270px;
   float:left;
   position:fixed;
 }
+*/
 
-header ul {
+/*header ul {
   list-style:none;
   height:40px;
   
@@ -170,11 +175,6 @@ header ul a:active {
   box-shadow: inset 0px 2px 2px 0px #ddd;
 }
 
-strong {
-  color:#222;
-  font-weight:700;
-}
-
 header ul li + li {
   width:88px;
   border-left:1px solid #fff;
@@ -190,15 +190,56 @@ header ul a strong {
   display:block;
   color:#222;
 }
+*/
 
-section {
+header {
+  margin: 0;
+  padding: 0;
+}
+
+header ul {
+  list-style: none;
+  margin: 0;
+  padding: 0px 0px 10px 0px;
+}
+
+header ul li {
+  display: inline;
+  padding-right: 2em;
+}
+
+header ul a {
+  color: #555;
+}
+
+header ul a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+
+header ul a:active {
+  color: #000;
+  font-weight: 700;
+}
+
+.logo {
+  float: right;
+}
+
+strong {
+  color: #222;
+  font-weight:700;
+}
+
+/*section {
   width:500px;
   float:right;
   padding-bottom:50px;
 }
+*/
 
 small {
-  font-size:11px;
+  font-size:13px;
 }
 
 hr {
@@ -215,6 +256,7 @@ footer {
   bottom:50px;
 }
 
+/*
 @media print, screen and (max-width: 960px) {
   
   div.wrapper {
@@ -285,3 +327,4 @@ footer {
     color:#444;
   }
 }
+*/
