@@ -217,10 +217,10 @@ header ul a:hover {
   text-decoration: underline;
 }
 
-header ul a:active {
+/*header ul a:active {
   color: #000;
   font-weight: 700;
-}
+}*/
 
 .logo {
   float: right;
@@ -249,11 +249,20 @@ hr {
   margin:0 0 20px;
 }
 
-footer {
+/*footer {
   width:270px;
   float:left;
   position:fixed;
   bottom:50px;
+}*/
+
+footer {
+  color: #ccc;
+}
+
+footer a, footer a:hover {
+  color: #ccc;
+  text-decoration: underline;
 }
 
 /*
