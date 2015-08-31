@@ -23,7 +23,7 @@ title: Schedule
 - 15.50 - 16.15: Talk
 - 16.15 - 16.30: Poster Spotlights
 
-### Session 5
+### Session 4
 
 - 17.00 - 17.30: Keynote Talk
 - 17.30 - 18.30: Panel and Discussion
