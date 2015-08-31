@@ -8,7 +8,7 @@ title:
 - Abstract submission: 2 October 2015 
 - Acceptance notification: 2 November 2015
 - Final abstract submission: 2 December 2015
-- Workshop: 11 December 2015
+- Workshop: 12 December 2015
 
 ## Call for Abstracts
 
