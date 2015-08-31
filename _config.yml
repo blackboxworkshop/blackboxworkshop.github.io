@@ -4,10 +4,10 @@ pygments: true
 
 navigation:
 - text: Description
-  url: /index.html
+  url: /
 - text: Submissions
-  url: /submissions/index.html
+  url: /submissions/
 - text: Schedule
-  url: /schedule/index.html
+  url: /schedule/
 - text: Organizers 
-  url: /organizers/index.html
+  url: /organizers/

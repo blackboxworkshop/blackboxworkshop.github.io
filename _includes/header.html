@@ -6,7 +6,8 @@
 <ul >
   {% for link in site.navigation %}
   {% capture url %}{{site.baseurl}}{{link.url}}{% endcapture %}
-  <li {% if page.url == url %}class="active"{% endif %}>
+  {% capture longurl %}{{url|append:"index.html"}}{% endcapture %}
+  <li {% if (page.url == url) or (page.url == longurl) %}class="active"{% endif %}>
     <a href="{{url}}" title="{{link.title}}">{{link.text}}</a>
   </li>
   {% endfor %}
