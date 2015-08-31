@@ -204,17 +204,25 @@ header ul {
 }
 
 header ul li {
-  display: inline;
-  padding-right: 2em;
+  display: inline-block;
+  width: 7em;
+}
+
+header li + li{
+  text-align: center;
 }
 
 header ul a {
   color: #555;
 }
 
+header ul li.active a {
+  font-weight: 700;
+}
+
 header ul a:hover {
   color: #000;
-  text-decoration: underline;
+  font-weight: 700;
 }
 
 /*header ul a:active {
