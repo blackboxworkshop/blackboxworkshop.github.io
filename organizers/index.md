@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Workshop organizers
+title: Organizers
 ---
 
 * [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) (MIT)
