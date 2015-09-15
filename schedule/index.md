@@ -5,8 +5,8 @@ title: Schedule
 
 ### Session 1: Keynotes
 
-- 8.30 - 9.10: Josh Tenenbaum
-- 9.10 - 9.50: David Poole
+- 8.30 - 9.10: Keynote Talk: Josh Tenenbaum
+- 9.10 - 9.50: Keynote Talk: David Poole
 - 9.50 - 10.00: Poster Spotlights
     
 ### Session 2: Advances in Black Box Inference
