@@ -5,7 +5,7 @@ title: Submissions
 
 ### Key Dates 
 
-- Abstract submission: 2 October 2015 
+- Abstract submission: 9 October 2015 
 - Acceptance notification: 2 November 2015
 - Final abstract submission: 2 December 2015
 - Workshop: 12 December 2015
@@ -15,7 +15,7 @@ title: Submissions
 We invite contributions of abstracts on the following topics, to be presented as posters, contributed talks, or as short spotlight talks:
 
 * Inference in probabilistic programming systems and broad model families:
-  * Gradient-based methods for parameter estimation, variational inference
+  * Gradient-based methods for parameter estimation, variational inference,
   * Metropolis-Hastings variants with efficient rescoring,
   * Message passing variants,
   * Sequential Monte Carlo variants,
