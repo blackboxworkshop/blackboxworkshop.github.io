@@ -32,8 +32,7 @@ We invite research abstracts on the following topics, to be presented as posters
     - Gradient-based methods for parameter estimation, variational inference,
     - Metropolis-Hastings variants with efficient rescoring,
     - Message passing variants,
-
-- Sequential Monte Carlo variants,
+    - Sequential Monte Carlo variants,
 
 - Learning to infer: Using discriminative methods to amortize probabilistic inference (Variational Autoencoders, Deep Latent Gaussian Models, Restricted Boltzmann Machines, Neural Network based proposals),
 
