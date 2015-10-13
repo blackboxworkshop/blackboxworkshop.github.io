@@ -241,6 +241,18 @@ header ul a:hover {
   float: right;
 }
 
+footer p.credit {
+  float: left;
+}
+
+footer p.sponsors {
+  float: right;
+}
+
+footer .logo {
+  margin-left: 10px;
+}
+
 strong {
   color: #222;
   font-weight:700;
@@ -272,11 +284,12 @@ hr {
 }*/
 
 footer {
-  color: #ccc;
+  color: #aaa;
+  font-size:80%;
 }
 
 footer a, footer a:hover {
-  color: #ccc;
+  color: #aaa;
   text-decoration: underline;
 }
 
