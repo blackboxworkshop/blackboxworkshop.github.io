@@ -5,7 +5,7 @@ title: Submissions
 
 ### Key Dates 
 
-- Abstract submission: 9 October 2015 
+- Abstract submission: 16 October 2015 (*note: extended deadline*)
 - Acceptance notification: 2 November 2015
 - Final abstract submission: 2 December 2015
 - Workshop: 12 December 2015
@@ -40,7 +40,7 @@ We invite research abstracts on the following topics, to be presented as posters
 
 - Applications to vision, speech, reinforcement learning, motor control, language learning. 
 
-Submitted abstracts should be 2–4 pages in NIPS format, sent to [nips2015blackbox@gmail.com](mailto:nips2015blackbox@gmail.com) before October 9 2015 (midnight PDT). Submissions need not be anonymized. Additional space beyond the fourth page is permitted for references, if required. 
+Submitted abstracts should be 2–4 pages in NIPS format, sent to [nips2015blackbox@gmail.com](mailto:nips2015blackbox@gmail.com) before October 16 2015 (midnight PDT). Submissions need not be anonymized. Additional space beyond the fourth page is permitted for references, if required. 
 
 Authors will be notified of acceptance and presentation type (poster, spotlight, talk) by November 2 2015. Final versions of submitted abstracts are due 2 December 2015 and will be distributed on the workshop website.
 
