@@ -44,4 +44,5 @@ Submitted abstracts should be 2–4 pages in NIPS format, sent to [nips2015black
 
 Authors will be notified of acceptance and presentation type (poster, spotlight, talk) by November 2 2015. Final versions of submitted abstracts are due 2 December 2015 and will be distributed on the workshop website.
 
+We gratefully acknowledge the support of NVIDIA Corporation for sponsoring the best poster award. 
 
