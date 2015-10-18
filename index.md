@@ -3,6 +3,16 @@ layout: default
 title: Black Box Learning and Inference
 ---
 
+## News 
+
+- **Review Period Started.** We have now begun the review period for abstract submissions. Authors will be notified on [Nov 2nd](schedule/). 
+
+- **Best Abstract Prize.** Nvidia has generously made a [Tesla K40 GPU](http://www.nvidia.com/object/tesla-servers.html) to the workshop, which we will reward as a prize to the best research abstract.
+
+- **Sponsorship.** We are pleased to announce support from [Google Deepmind](http://deepmind.com)!
+
+## Overview
+
 Probabilistic models have traditionally co-evolved with tailored algorithms for efficient learning and inference. One of the exciting developments of recent years has been the resurgence of black box methods, which make relatively few assumptions about the model structure, allowing application to broader model families. 
 
 In probabilistic programming systems, black box methods have greatly improved the capabilities of inference back ends.  Similarly, the design of connectionist models has been simplified by the development of black box frameworks for training arbitrary architectures. These innovations open up opportunities to design new classes of models that smoothly negotiate the transition from low-level features of the data to high-level structured representations that are interpretable and generalize well across examples.
