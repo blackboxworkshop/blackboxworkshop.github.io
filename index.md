@@ -9,7 +9,7 @@ title: Black Box Learning and Inference
 
 - **Best Abstract Prize.** Nvidia has generously donated a [Tesla K40 GPU](http://www.nvidia.com/object/tesla-servers.html) to the workshop, which we will reward as a prize to the best research abstract.
 
-- **Sponsorship.** We are pleased to announce support from [Google Deepmind](http://deepmind.com)!
+- **Sponsorship.** We are pleased to announce support from [Google DeepMind](http://deepmind.com)!
 
 ## Overview
 
