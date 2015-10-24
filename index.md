@@ -11,23 +11,6 @@ title: Black Box Learning and Inference
 
 - **Sponsorship.** We are pleased to announce support from [Google DeepMind](http://deepmind.com).
 
-## Keynote talks
-- Josh Tenenbaum,
-- Geoff Hinton
-
-## Research talks
-- Durk Kingma,
-- Alp Kucukelbir,
-- Jan-Willem van de Meent
-
-## Systems spotlights
-- Koray Kavukcuoglu (Torch),
-- Alp Kucukelbir (Stan)
-- Yi Wu (BLOG)
-- Avi Pfeffer (Figaro)
-- Vikash Mansinghka (Venture)
-- Tejas Kulkarni (Picture)
-
 ## Overview
 
 Probabilistic models have traditionally co-evolved with tailored algorithms for efficient learning and inference. One of the exciting developments of recent years has been the resurgence of black box methods, which make relatively few assumptions about the model structure, allowing application to broader model families. 
@@ -40,3 +23,20 @@ This workshop brings together developers of black box inference technologies, pr
 * Implementation of black box techniques in probabilistic programming systems and computing frameworks for connectionist model families. 
 * Models that integrate top-down and bottom-up model representations to perform amortized inference: variational autoencoders, deep latent Gaussian models, restricted Boltzmann machines, neural network based proposals in MCMC. 
 * Applications to vision, speech, reinforcement learning, motor control, language learning.
+
+## Keynote talks
+- Josh Tenenbaum
+- Geoff Hinton
+
+## Research talks
+- Durk Kingma
+- Alp Kucukelbir
+- Jan-Willem van de Meent
+
+## Systems spotlights
+- Koray Kavukcuoglu (Torch)
+- Alp Kucukelbir (Stan)
+- Yi Wu (BLOG)
+- Avi Pfeffer (Figaro)
+- Vikash Mansinghka (Venture)
+- Tejas Kulkarni (Picture)
