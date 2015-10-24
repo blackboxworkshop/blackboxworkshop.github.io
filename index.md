@@ -9,7 +9,24 @@ title: Black Box Learning and Inference
 
 - **Best Abstract Prize.** Nvidia has generously donated a [Tesla K40 GPU](http://www.nvidia.com/object/tesla-servers.html) to the workshop, which we will reward as a prize to the best research abstract.
 
-- **Sponsorship.** We are pleased to announce support from [Google DeepMind](http://deepmind.com)!
+- **Sponsorship.** We are pleased to announce support from [Google DeepMind](http://deepmind.com).
+
+## Keynote talks
+- Josh Tenenbaum,
+- Geoff Hinton
+
+## Research talks
+- Durk Kingma,
+- Alp Kucukelbir,
+- Jan-Willem van de Meent
+
+## Systems spotlights
+- Koray Kavukcuoglu (Torch),
+- Alp Kucukelbir (Stan)
+- Yi Wu (BLOG)
+- Avi Pfeffer (Figaro)
+- Vikash Mansinghka (Venture)
+- Tejas Kulkarni (Picture)
 
 ## Overview
 
