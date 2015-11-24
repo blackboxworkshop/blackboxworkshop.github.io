@@ -10,6 +10,8 @@ navigation:
   url: /
 - text: Submissions
   url: /submissions/
+- text: Abstracts
+  url: /accepted-papers/
 - text: Schedule
   url: /schedule/
 - text: Organizers 
