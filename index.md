@@ -26,17 +26,19 @@ This workshop brings together developers of black box inference technologies, pr
 
 ## Keynote talks
 - Josh Tenenbaum
+- Ruslan Salakutdinov
 - Geoff Hinton
 
 ## Research talks
 - Durk Kingma
 - Alp Kucukelbir
+- Dustin Tran
 - Jan-Willem van de Meent
 
-## Systems spotlights
+## Languages and Systems
 - Koray Kavukcuoglu (Torch)
-- Alp Kucukelbir (Stan)
 - Yi Wu (BLOG)
 - Avi Pfeffer (Figaro)
+- Chung-chieh Shan (Hakaru)
+- Alp Kucukelbir (Stan)
 - Vikash Mansinghka (Venture)
-- Tejas Kulkarni (Picture)
