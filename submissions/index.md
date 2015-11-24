@@ -5,9 +5,9 @@ title: Submissions
 
 ### Key Dates 
 
-- Abstract submission: 16 October 2015 (*note: extended deadline*)
-- Acceptance notification: 2 November 2015
-- Final abstract submission: 2 December 2015
+- ~~Abstract submission: 16 October 2015 (*note: extended deadline*)~~
+- ~~Acceptance notification: 2 November 2015~~
+- ~~Final abstract submission: 2 December 2015~~
 - Workshop: 12 December 2015
 
 ### Call for Abstracts
