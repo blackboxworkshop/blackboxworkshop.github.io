@@ -5,7 +5,7 @@ title: Schedule
 
 - **8.30 - 9.10**: Josh Tenenbaum
 - **9.10 - 9.50**: Ruslan Salakutdinov 
-- **9.50 - 10.00**: *Poster Spotlights*: Zenna Tevares, Uri Shalit
+- **9.50 - 10.00**: *Poster Spotlights*: Zenna Tavares, Uri Shalit
 
 (Coffee / Posters)
 
