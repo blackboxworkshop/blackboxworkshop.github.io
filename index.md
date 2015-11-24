@@ -24,12 +24,12 @@ This workshop brings together developers of black box inference technologies, pr
 * Models that integrate top-down and bottom-up model representations to perform amortized inference: variational autoencoders, deep latent Gaussian models, restricted Boltzmann machines, neural network based proposals in MCMC. 
 * Applications to vision, speech, reinforcement learning, motor control, language learning.
 
-## Keynote talks
+## Keynote Talks
 - Josh Tenenbaum
 - Ruslan Salakutdinov
 - Geoff Hinton
 
-## Research talks
+## Research Talks
 - Durk Kingma
 - Alp Kucukelbir
 - Dustin Tran
