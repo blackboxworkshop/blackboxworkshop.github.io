@@ -11,7 +11,7 @@ title: Schedule
 
 - **10.30 - 10.50**:  Koray Kavukcuoglu
 - **10.50 - 11.35**: *Languages Spotlights*: BLOG, Hakaru, Figaro, Stan, Venture
-- **11.35 - 12.20**: *Languages Panel*: Koray Kavukcuoglu, Alp Kucukelbir, Vikash Mansinghka, Avi Pfeffer, Chung-chieh Shan, Yi Wu
+- **11.35 - 12.20**: *Languages Panel*: Koray Kavukcuoglu, Alp Kucukelbir, Vikash Mansinghka, Avi Pfeffer, Chung-chieh Shan, Yi Wu. *Moderator:* Frank Wood.
 - **12.10 - 12.45**: *Poster Spotlights*: Kelsey Allen, David Duvenaud, José Miguel Hernández-Lobato, Christian Naesseth, Tom Rainforth
 
 (Lunch / Posters)
@@ -24,6 +24,6 @@ title: Schedule
 (Coffee / Posters)
 
 - **17.00 - 17.40**: Geoff Hinton
-- **17.40 - 18.30**: *Closing Panel*: Dave Blei, Zoubin Ghahramani, Geoff Hinton, Ruslan Salakutdinov, Frank Wood
+- **17.40 - 18.30**: *Closing Panel*: Dave Blei, Zoubin Ghahramani, Geoff Hinton, Ruslan Salakutdinov, Frank Wood. *Moderator:* Josh Tenenbaum.
 
 
