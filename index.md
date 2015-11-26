@@ -5,7 +5,7 @@ title: Black Box Learning and Inference
 
 ## News 
 
-- **Accepted Abstracts.** A list of accepted abstracts is now [available](abstracts/). We thank all authors for their submissions, and are looking forward to their participation. 
+- **Accepted Abstracts.** A list of accepted abstracts is now [available](accepted-papers/). We thank all authors for their submissions, and are looking forward to their participation. 
 
 - **Review Period Started.** We have now begun the review period for abstract submissions. Authors will be notified on [Nov 2nd](schedule/). 
 
