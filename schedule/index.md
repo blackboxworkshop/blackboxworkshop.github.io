@@ -16,14 +16,14 @@ title: Schedule
 
 (Lunch / Posters)
 
-- **15.00 - 15.22**: Durk Kingma
-- **15.22 - 15.45**: Alp Kucukelbir
-- **15.45 - 16.07**: Dustin Tran
-- **16.07 - 16.30**: Jan-Willem van de Meent
+- **14.30 - 14.52**: Durk Kingma
+- **14.52 - 15.15**: Alp Kucukelbir
+- **15.15 - 15.37**: Dustin Tran
+- **15.37 - 16.00**: Jan-Willem van de Meent
 
 (Coffee / Posters)
 
-- **17.00 - 17.40**: Geoff Hinton
-- **17.40 - 18.30**: *Closing Panel*: Dave Blei, Zoubin Ghahramani, Geoff Hinton, Ruslan Salakutdinov, Frank Wood. *Moderator:* Josh Tenenbaum.
+- **16.30 - 17.10**: Geoff Hinton
+- **17.10 - 18.00**: *Closing Panel*: Dave Blei, Zoubin Ghahramani, Geoff Hinton, Ruslan Salakutdinov, Frank Wood. *Moderator:* Josh Tenenbaum.
 
 
