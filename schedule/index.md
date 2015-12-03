@@ -4,15 +4,14 @@ title: Schedule
 ---
 
 - **8.30 - 9.10**: Josh Tenenbaum
-- **9.10 - 9.50**: Ruslan Salakutdinov 
-- **9.50 - 10.00**: *Poster Spotlights*: Zenna Tavares, Rahul Krishnan
+- **9.10 - 9.30**: Zenna Tavares 
+- **9.30 - 10.00**: *Poster Spotlights*: Kelsey Allen, David Duvenaud, José Miguel Hernández-Lobato, Rahul Krishnan, Christian Naesseth, Tom Rainforth
 
 (Coffee / Posters)
 
-- **10.30 - 10.50**:  Koray Kavukcuoglu
-- **10.50 - 11.35**: *Languages Spotlights*: BLOG, Hakaru, Figaro, Stan, Venture
-- **11.35 - 12.20**: *Languages Panel*: Koray Kavukcuoglu, Alp Kucukelbir, Vikash Mansinghka, Avi Pfeffer, Chung-chieh Shan, Yi Wu. *Moderator:* Frank Wood.
-- **12.10 - 12.45**: *Poster Spotlights*: Kelsey Allen, David Duvenaud, José Miguel Hernández-Lobato, Christian Naesseth, Tom Rainforth
+- **10.30 - 10.55**:  Koray Kavukcuoglu
+- **10.55 - 11.45**: *Languages Spotlights*: BLOG, Hakaru, Figaro, Stan, Venture
+- **11.45 - 12.30**: *Languages Panel*: Koray Kavukcuoglu, Alp Kucukelbir, Vikash Mansinghka, Avi Pfeffer, Chung-chieh Shan, Yi Wu. *Moderator:* Frank Wood.
 
 (Lunch / Posters)
 
@@ -23,7 +22,7 @@ title: Schedule
 
 (Coffee / Posters)
 
-- **16.30 - 17.10**: Geoff Hinton
-- **17.10 - 18.00**: *Closing Panel*: Dave Blei, Zoubin Ghahramani, Geoff Hinton, Ruslan Salakutdinov, Frank Wood. *Moderator:* Josh Tenenbaum.
+- **16.30 - 17.10**: Ruslan Salakutdinov
+- **17.10 - 18.00**: *Closing Panel*: Dave Blei, Zoubin Ghahramani, Ruslan Salakutdinov, Josh Tenenbaum, Frank Wood.
 
 
