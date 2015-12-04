@@ -29,15 +29,12 @@ This workshop brings together developers of black box inference technologies, pr
 ## Keynote Talks
 <table>
 <tr>
-<td>
-<img class="logo" src="{{site.baseurl}}/images/tenenbaum.jpg" width="100px" align="bottom">
-Josh Tenenbaum
-</td>
-<td>
-<img class="logo" src="{{site.baseurl}}/images/Salakutdinov.jpg" width="100px" align="bottom">
-Ruslan Salakutdinov
-</td>
+<td><img class="logo" src="{{site.baseurl}}/images/tenenbaum.jpg" width="100px" align="bottom"></td>
+<td><img class="logo" src="{{site.baseurl}}/images/salakutdinov.jpg" width="100px" align="bottom"></td>
 </tr>
+<tr>
+<td>Josh Tenenbaum</td>
+<td>Ruslan Salakutdinov</td>
 </table>
 
 
