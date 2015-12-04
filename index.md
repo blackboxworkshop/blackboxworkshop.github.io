@@ -29,8 +29,8 @@ This workshop brings together developers of black box inference technologies, pr
 ## Keynote Talks
 <table>
 <tr>
-<td><img src="{{site.baseurl}}/images/tenenbaum.jpg" width="100px" align="bottom"></td>
-<td><img src="{{site.baseurl}}/images/salakutdinov.jpg" width="100px" align="bottom"></td>
+<td width="50%"><img src="{{site.baseurl}}/images/tenenbaum.jpg" width="100px" align="bottom"></td>
+<td width="50%"><img src="{{site.baseurl}}/images/salakutdinov.jpg" width="100px" align="bottom"></td>
 </tr>
 <tr>
 <td>Josh Tenenbaum</td>
@@ -41,16 +41,16 @@ This workshop brings together developers of black box inference technologies, pr
 ## Research Talks
 <table>
 <tr>
-<td><img src="{{site.baseurl}}/images/kingma.jpg" width="100px" align="bottom"></td>
-<td><img src="{{site.baseurl}}/images/kucukelbir.jpg" width="100px" align="bottom"></td>
+<td width="50%"><img src="{{site.baseurl}}/images/kingma.jpg" width="100px" align="bottom"></td>
+<td width="50%"><img src="{{site.baseurl}}/images/kucukelbir.jpg" width="100px" align="bottom"></td>
 </tr>
 <tr>
 <td>Durk Kingma</td>
 <td>Alp Kucukelbir</td>
 </tr>
 <tr>
-<td><img src="{{site.baseurl}}/images/tran.jpg" width="100px" align="bottom"></td>
-<td><img src="{{site.baseurl}}/images/vdm.jpg" width="100px" align="bottom"></td>
+<td width="50%"><img src="{{site.baseurl}}/images/tran.jpg" width="100px" align="bottom"></td>
+<td width="50%"><img src="{{site.baseurl}}/images/vdm.jpg" width="100px" align="bottom"></td>
 </tr>
 <tr>
 <td>Dustin Tran</td>
@@ -61,16 +61,16 @@ This workshop brings together developers of black box inference technologies, pr
 ## Panel
 <table>
 <tr>
-<td><img src="{{site.baseurl}}/images/blei.jpg" width="100px" align="bottom"></td>
-<td><img src="{{site.baseurl}}/images/ghahramani.jpg" width="100px" align="bottom"></td>
+<td width="50%"><img src="{{site.baseurl}}/images/blei.jpg" width="100px" align="bottom"></td>
+<td width="50%"><img src="{{site.baseurl}}/images/ghahramani.jpg" width="100px" align="bottom"></td>
 </tr>
 <tr>
 <td>Dave Blei</td>
 <td>Zoubin Ghahramani</td>
 </tr>
 <tr>
-<td><img src="{{site.baseurl}}/images/wood.jpg" width="100px" align="bottom"></td>
-<td><img src="{{site.baseurl}}/images/salakutdinov.jpg" width="100px" align="bottom"></td>
+<td width="50%"><img src="{{site.baseurl}}/images/wood.jpg" width="100px" align="bottom"></td>
+<td width="50%"><img src="{{site.baseurl}}/images/salakutdinov.jpg" width="100px" align="bottom"></td>
 </tr>
 <tr>
 <td>Frank Wood</td>
