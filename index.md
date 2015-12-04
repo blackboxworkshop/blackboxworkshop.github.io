@@ -49,8 +49,8 @@ This workshop brings together developers of black box inference technologies, pr
 <td>Alp Kucukelbir</td>
 </tr>
 <tr>
-<td width="50%"><img src="{{site.baseurl}}/images/tran.jpg" width="100px" align="bottom"></td>
-<td width="50%"><img src="{{site.baseurl}}/images/vdm.jpg" width="100px" align="bottom"></td>
+<td width="50%"><br/><br/><img src="{{site.baseurl}}/images/tran.jpg" width="100px" align="bottom"></td>
+<td width="50%"><br/><br/><img src="{{site.baseurl}}/images/vdm.jpg" width="100px" align="bottom"></td>
 </tr>
 <tr>
 <td>Dustin Tran</td>
@@ -69,8 +69,8 @@ This workshop brings together developers of black box inference technologies, pr
 <td>Ruslan Salakutdinov</td>
 </tr>
 <tr>
-<td width="50%"><img src="{{site.baseurl}}/images/blei.jpg" width="100px" align="bottom"></td>
-<td width="50%"><img src="{{site.baseurl}}/images/ghahramani.jpg" width="100px" align="bottom"></td>
+<td width="50%"><br/><br/><img src="{{site.baseurl}}/images/blei.jpg" width="100px" align="bottom"></td>
+<td width="50%"><br/><br/><img src="{{site.baseurl}}/images/ghahramani.jpg" width="100px" align="bottom"></td>
 </tr>
 <tr>
 <td>Dave Blei</td>
