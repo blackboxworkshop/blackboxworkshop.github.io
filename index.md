@@ -49,6 +49,8 @@ This workshop brings together developers of black box inference technologies, pr
 <td>Alp Kucukelbir</td>
 </tr>
 <tr>
+</tr>
+<tr>
 <td width="50%"><img src="{{site.baseurl}}/images/tran.jpg" width="100px" align="bottom"></td>
 <td width="50%"><img src="{{site.baseurl}}/images/vdm.jpg" width="100px" align="bottom"></td>
 </tr>
@@ -67,6 +69,8 @@ This workshop brings together developers of black box inference technologies, pr
 <tr>
 <td>Dave Blei</td>
 <td>Zoubin Ghahramani</td>
+</tr>
+<tr>
 </tr>
 <tr>
 <td width="50%"><img src="{{site.baseurl}}/images/wood.jpg" width="100px" align="bottom"></td>
