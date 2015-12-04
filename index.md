@@ -49,6 +49,7 @@ This workshop brings together developers of black box inference technologies, pr
 <td>Alp Kucukelbir</td>
 </tr>
 <tr>
+<td></td><td></td>
 </tr>
 <tr>
 <td width="50%"><img src="{{site.baseurl}}/images/tran.jpg" width="100px" align="bottom"></td>
@@ -63,22 +64,23 @@ This workshop brings together developers of black box inference technologies, pr
 ## Panel
 <table>
 <tr>
-<td width="50%"><img src="{{site.baseurl}}/images/blei.jpg" width="100px" align="bottom"></td>
-<td width="50%"><img src="{{site.baseurl}}/images/ghahramani.jpg" width="100px" align="bottom"></td>
-</tr>
-<tr>
-<td>Dave Blei</td>
-<td>Zoubin Ghahramani</td>
-</tr>
-<tr>
-</tr>
-<tr>
 <td width="50%"><img src="{{site.baseurl}}/images/wood.jpg" width="100px" align="bottom"></td>
 <td width="50%"><img src="{{site.baseurl}}/images/salakutdinov.jpg" width="100px" align="bottom"></td>
 </tr>
 <tr>
 <td>Frank Wood</td>
 <td>Ruslan Salakutdinov</td>
+</tr>
+<tr>
+<td></td><td></td>
+</tr>
+<tr>
+<td width="50%"><img src="{{site.baseurl}}/images/blei.jpg" width="100px" align="bottom"></td>
+<td width="50%"><img src="{{site.baseurl}}/images/ghahramani.jpg" width="100px" align="bottom"></td>
+</tr>
+<tr>
+<td>Dave Blei</td>
+<td>Zoubin Ghahramani</td>
 </tr>
 </table>
 
