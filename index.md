@@ -27,9 +27,19 @@ This workshop brings together developers of black box inference technologies, pr
 * Applications to vision, speech, reinforcement learning, motor control, language learning.
 
 ## Keynote Talks
-- Josh Tenenbaum
-- Ruslan Salakutdinov
-- Geoff Hinton
+<table>
+<tr>
+<td>
+<img class="logo" src="{{site.baseurl}}/images/tenenbaum.jpg" width="100px" align="bottom">
+Josh Tenenbaum
+</td>
+<td>
+<img class="logo" src="{{site.baseurl}}/images/Salakutdinov.jpg" width="100px" align="bottom">
+Ruslan Salakutdinov
+</td>
+</tr>
+</table>
+
 
 ## Research Talks
 - Durk Kingma
