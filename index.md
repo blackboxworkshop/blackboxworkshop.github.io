@@ -55,14 +55,6 @@ title: Black Box Learning and Inference
 </tr>
 </table>
 
-## Languages and Systems Presentations
-- Koray Kavukcuoglu (Torch)
-- Yi Wu (BLOG)
-- Avi Pfeffer (Figaro)
-- Chung-chieh Shan (Hakaru)
-- Alp Kucukelbir (Stan)
-- Vikash Mansinghka (Venture)
-
 ## Overview
 
 Probabilistic models have traditionally co-evolved with tailored algorithms for efficient learning and inference. One of the exciting developments of recent years has been the resurgence of black box methods, which make relatively few assumptions about the model structure, allowing application to broader model families. 
