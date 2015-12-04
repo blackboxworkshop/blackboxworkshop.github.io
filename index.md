@@ -35,14 +35,29 @@ This workshop brings together developers of black box inference technologies, pr
 <tr>
 <td>Josh Tenenbaum</td>
 <td>Ruslan Salakutdinov</td>
+</tr>
 </table>
 
 
 ## Research Talks
-- Durk Kingma
-- Alp Kucukelbir
-- Dustin Tran
-- Jan-Willem van de Meent
+<table>
+<tr>
+<td><img class="logo" src="{{site.baseurl}}/images/kingma.jpg" width="100px" align="bottom"></td>
+<td><img class="logo" src="{{site.baseurl}}/images/kucukelbir.jpg" width="100px" align="bottom"></td>
+</tr>
+<tr>
+<td>Durk Kingma</td>
+<td>Alp Kucukelbir</td>
+</tr>
+<tr>
+<td><img class="logo" src="{{site.baseurl}}/images/tran.jpg" width="100px" align="bottom"></td>
+<td><img class="logo" src="{{site.baseurl}}/images/vdm.jpg" width="100px" align="bottom"></td>
+</tr>
+<tr>
+<td>Dustin Tran</td>
+<td>Jan-Willem van de Meent</td>
+</tr>
+</table>
 
 ## Languages and Systems
 - Koray Kavukcuoglu (Torch)
