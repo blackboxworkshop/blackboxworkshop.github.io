@@ -38,7 +38,6 @@ This workshop brings together developers of black box inference technologies, pr
 </tr>
 </table>
 
-
 ## Research Talks
 <table>
 <tr>
@@ -56,6 +55,26 @@ This workshop brings together developers of black box inference technologies, pr
 <tr>
 <td>Dustin Tran</td>
 <td>Jan-Willem van de Meent</td>
+</tr>
+</table>
+
+## Panel
+<table>
+<tr>
+<td><img class="logo" src="{{site.baseurl}}/images/blei.jpg" width="100px" align="bottom"></td>
+<td><img class="logo" src="{{site.baseurl}}/images/ghahramani.jpg" width="100px" align="bottom"></td>
+</tr>
+<tr>
+<td>Dave Blei</td>
+<td>Zoubin Ghahramani</td>
+</tr>
+<tr>
+<td><img class="logo" src="{{site.baseurl}}/images/wood.jpg" width="100px" align="bottom"></td>
+<td><img class="logo" src="{{site.baseurl}}/images/salakutdinov.jpg" width="100px" align="bottom"></td>
+</tr>
+<tr>
+<td>Frank Wood</td>
+<td>Ruslan Salakutdinov</td>
 </tr>
 </table>
 
