@@ -55,7 +55,7 @@ title: Black Box Learning and Inference
 </tr>
 </table>
 
-## Languages Panel
+## Language Talks and Panel
 <table>
 <tr>
 <td width="50%"><img src="{{site.baseurl}}/images/kavukcuoglu.jpg" width="100px" align="bottom"></td>
