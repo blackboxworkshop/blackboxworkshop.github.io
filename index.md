@@ -35,7 +35,7 @@ title: Black Box Learning and Inference
 </tr>
 </table>
 
-## Panel
+## Research Panel
 <table>
 <tr>
 <td width="50%"><img src="{{site.baseurl}}/images/wood.jpg" width="100px" align="bottom"></td>
@@ -52,6 +52,34 @@ title: Black Box Learning and Inference
 <tr>
 <td>Dave Blei</td>
 <td>Zoubin Ghahramani</td>
+</tr>
+</table>
+
+## Languages Panel
+<table>
+<tr>
+<td width="50%"><img src="{{site.baseurl}}/images/kavukcuoglu.jpg" width="100px" align="bottom"></td>
+<td width="50%"><img src="{{site.baseurl}}/images/vetancourt.jpg" width="100px" align="bottom"></td>
+</tr>
+<tr>
+<td>Koray Kavukcuoglu</td>
+<td>Michael Betancourt</td>
+</tr>
+<tr>
+<td width="50%"><br/><br/><img src="{{site.baseurl}}/images/masinghka.jpg" width="100px" align="bottom"></td>
+<td width="50%"><br/><br/><img src="{{site.baseurl}}/images/pfeffer.jpg" width="100px" align="bottom"></td>
+</tr>
+<tr>
+<td>Vikash Mansinghka</td>
+<td>Avi Pfeffer</td>
+</tr>
+<tr>
+<td width="50%"><br/><br/><img src="{{site.baseurl}}/images/shan.jpg" width="100px" align="bottom"></td>
+<td width="50%"><br/><br/><img src="{{site.baseurl}}/images/wu.jpg" width="100px" align="bottom"></td>
+</tr>
+<tr>
+<td>Chung-chieh Shan</td>
+<td>Yi Wu</td>
 </tr>
 </table>
 
