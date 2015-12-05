@@ -11,7 +11,7 @@ title: Schedule
 
 - **10.30 - 10.55**:  Koray Kavukcuoglu
 - **10.55 - 11.45**: *Languages Spotlights*: BLOG, Hakaru, Figaro, Stan, Venture
-- **11.45 - 12.30**: *Languages Panel*: Koray Kavukcuoglu, Alp Kucukelbir, Vikash Mansinghka, Avi Pfeffer, Chung-chieh Shan, Yi Wu. *Moderator:* Frank Wood.
+- **11.45 - 12.30**: *Languages Panel*: Koray Kavukcuoglu, Michael Betancourt, Vikash Mansinghka, Avi Pfeffer, Chung-chieh Shan, Yi Wu. *Moderator:* Frank Wood.
 
 (Lunch / Posters)
 
