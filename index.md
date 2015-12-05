@@ -59,7 +59,7 @@ title: Black Box Learning and Inference
 <table>
 <tr>
 <td width="50%"><img src="{{site.baseurl}}/images/kavukcuoglu.jpg" width="100px" align="bottom"></td>
-<td width="50%"><img src="{{site.baseurl}}/images/vetancourt.jpg" width="100px" align="bottom"></td>
+<td width="50%"><img src="{{site.baseurl}}/images/betancourt.jpg" width="100px" align="bottom"></td>
 </tr>
 <tr>
 <td>Koray Kavukcuoglu</td>
