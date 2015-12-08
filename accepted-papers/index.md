@@ -31,7 +31,7 @@ Christian A. Naesseth, Fredrik Lindsten, and Thomas B. Schon.
 **[Data-driven Sequential Monte Carlo in Probabilistic Programming](/pdf/DDSMCinPP.pdf)**.  
 Yura Perov, Tuan Anh Le, and Frank Wood.
 
-**[Bayesian Optimization for Probabilistic Programs](/pdf/bayOptForPropProg.pdf)**.  
+**[Bayesian Optimization for Probabilistic Programs](/pdf/rainforth2015BOPP.pdf)**.  
 Tom Rainforth, Jan-Willem van de Meent, Michael A. Osborne, and Frank Wood.
  
 **[Amortized inference through normalized nonnegative models](/pdf/Amortized_inference_through_NNMs_Cyril_Stark.pdf)**.  
