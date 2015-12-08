@@ -5,8 +5,6 @@ title: Accepted Papers
 
 ## Accepted papers
 
-PDF copies of abstracts, posters, and slides will be posted after December 2nd.
-
 ### Research Abstracts
 
 *A model of familiar and unfamiliar 3D face recognition*.  
