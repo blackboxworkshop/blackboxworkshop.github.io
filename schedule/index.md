@@ -3,6 +3,7 @@ layout: default
 title: Schedule
 ---
 
+- **8.20 - 8.30**: Opening remarks
 - **8.30 - 9.10**: Josh Tenenbaum
 - **9.10 - 9.30**: Zenna Tavares 
 - **9.30 - 10.00**: *Poster Spotlights*: Kelsey Allen, David Duvenaud, José Miguel Hernández-Lobato, Rahul Krishnan, Christian Naesseth, Tom Rainforth
