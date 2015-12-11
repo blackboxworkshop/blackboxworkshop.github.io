@@ -60,5 +60,5 @@ Avi Pfeffer, Michael Howard, Brian Ruttenberg, Glenn Takata, Alison O’Connor, 
 **[Swift: Compiled Inference for Probabilistic Programs](/pdf/swift_nips_ws.pdf)**.  
 Yi Wu, Lei Li, and Stuart Russell.
 
-**[Stan Overview: Language and Inference](/pdf/stan-abstract.pdf)**  
+**[Stan Overview: Language and Inference](/pdf/stan-abstract.pdf)**.  
 Stan Development Team. 
