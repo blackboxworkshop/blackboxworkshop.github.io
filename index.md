@@ -81,6 +81,14 @@ title: Black Box Learning and Inference
 <td>Chung-chieh Shan</td>
 <td>Yi Wu</td>
 </tr>
+<tr>
+<td width="50%"><br/><br/><img src="{{site.baseurl}}/images/tarlow.jpg" width="100px" align="bottom"></td>
+<td width="50%"><br/></td>
+</tr>
+<tr>
+<td>Daniel Tarlow</td>
+<td></td>
+</tr>
 </table>
 
 ## Overview
