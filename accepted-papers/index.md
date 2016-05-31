@@ -26,7 +26,7 @@ Rahul G. Krishnan, Uri Shalit, and David Sontag.
 **[Towards Automated Sequential Monte Carlo for Probabilistic Graphical Models](/pdf/smc4pgm.pdf)**.  
 Christian A. Naesseth, Fredrik Lindsten, and Thomas B. Schon.
 
-**[Data-driven Sequential Monte Carlo in Probabilistic Programming](/pdf/DDSMCinPP.pdf)**.  
+**[Data-driven Sequential Monte Carlo in Probabilistic Programming](http://arxiv.org/abs/1512.04387)**.  
 Yura Perov, Tuan Anh Le, and Frank Wood.
 
 **[Bayesian Optimization for Probabilistic Programs](/pdf/rainforth2015BOPP.pdf)**.  
